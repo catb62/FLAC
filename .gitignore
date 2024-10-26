@@ -1,0 +1,9 @@
+.idea
+ts_attack/fcn-attnum
+client_model/diff
+client_model/quanju
+log
+save
+
+!data/ucr/faceall/**
+!shapelet_pos/FaceAll_shapelet_pos.txt
